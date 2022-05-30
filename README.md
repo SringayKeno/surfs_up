@@ -36,16 +36,16 @@ With temperatures greater than 74 degrees 75% of the time in December and 50% of
 
 January stats with query (below)
 
-<img width="525" alt="jan_stats" src="https://user-images.githubusercontent.com/102890151/171063531-fdc31f27-ab64-4198-bd15-cdbe8238fd97.png">
+<img width="450" alt="jan_stats" src="https://user-images.githubusercontent.com/102890151/171063531-fdc31f27-ab64-4198-bd15-cdbe8238fd97.png">
 
 * Another additional query would be to look at precipitation for the same two months as the analysis was done on (June/December). 
 
 Code and query results for stats (June Rain)
 
-<img width="400" alt="june_rain" src="https://user-images.githubusercontent.com/102890151/171068837-d4d512a5-f60f-4a79-9be1-a529a0f0c1b1.png">
+<img width="450" alt="june_rain" src="https://user-images.githubusercontent.com/102890151/171068837-d4d512a5-f60f-4a79-9be1-a529a0f0c1b1.png">
 
 Code and query results for stats (Dec Rain)
 
-<img width="400" alt="dec_rain" src="https://user-images.githubusercontent.com/102890151/171068839-2622bd92-0b32-48fc-bcb8-136063c177ac.png">
+<img width="450" alt="dec_rain" src="https://user-images.githubusercontent.com/102890151/171068839-2622bd92-0b32-48fc-bcb8-136063c177ac.png">
 
 
