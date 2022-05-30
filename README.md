@@ -36,5 +36,5 @@ With temperatures greater than 74 degrees 75% of the time in December and 50% of
 
 January stats with query (below)
 
-<img width="500" alt="jan_stats" src="https://user-images.githubusercontent.com/102890151/171060221-6477aa0b-7691-4fcf-96ae-463c81428c33.png">
+<img width="525" alt="jan_stats" src="https://user-images.githubusercontent.com/102890151/171063531-fdc31f27-ab64-4198-bd15-cdbe8238fd97.png">
 
