@@ -1,16 +1,16 @@
 # Surfs Up Analysis
 ## Overview of the analysis: Purpose of This Analysis
 
-While on vacation in Hawaii last year I discovred a new found passion for surfing. I had been trying to come up with a plan that will let me not just return to Hawaii, but live thre permanently. I finally came up with an idea that I thought is foolsproof, a surf and shake shop, serving surf boards and ice cream to local and tourists. 
+While on vacation in Hawaii last year I discovered a new found passion for surfing. Since then I had been trying to come up with a plan that will let me not just return to Hawaii, but live there permanently. I finally came up with an idea that I thought was foolsproof, a surf and shake shop serving surf boards and ice cream to local and tourists. 
 
-I had some savings I am willing to invest, but needed some real investor backing to get the project off the ground. So I put together a strong business plan I reached out to an investor, W. Avy who is famous for his love of surfing. The first meeting went well with W. Avy, but he did have one concern, the weather. He was extremely interested,and even had invested in a surf shop earlier in his career. Unfortunately, he didn't ask for any weather analysis and his early venture was rained out of existance. 
+I had some savings I was willing to invest, but I needed some real investor backing to get the project off the ground. So I put together a strong business plan and I reached out to an investornamed W. Avy, who is famous for his love of surfing. The first meeting went well with W. Avy, but he did have one concern, the weather. He was extremely interested, and even had invested in a surf shop earlier in his career. Unfortunately, he didn't ask for any weather analysis and his early venture was rained out of existance. 
 
-W. Avy knows I had been learning how to properly analyze data and asked me if I could run some analytics on a weather dataset he has on the very island where I'd wantd to open my shop.
+W. Avy knows I have been learning how to properly analyze data and asked me if I could run some analytics on a weather dataset he has on the very island where I want to open my shop.
 
 
 ## Results: 
 
-W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+W. Avy liked my analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 A summary of statistics for those months are below. June on the left and december on the right.
 
@@ -20,17 +20,17 @@ A summary of statistics for those months are below. June on the left and decembe
 
 * It should be noted that the number of datapoints in December (1517) is less than that of June (1700)
 * There is a 4 temperature difference for both months in their 25th percentile and 50th percentiles. For the 25th percentile June was 73 and December was 69. For the 50th percentile, June was 75 and the month of December was 71
-* Minimum teprature was one of the bigget gaps between the two months. Minimum temprature in June was 64 while min. temperature for December dipped to 56.
-* The maximum temperature for both month was only a 2 degree difference (85 for June and 83 for December)
+* Minimum temperature was one of the bigget gaps between the two months. Minimum temprature in June was 64 while min. temperature for December dipped to 56.
+* The maximum temperature for both months was only a 2 degree difference (85 for June and 83 for December).
 
 ## Summary: 
 ### Ice Cream in December?
 
-With temperatures greater than 74 degrees 75% of the time in December and 50% of the time greater than 71 starting a ice cream and surf shop would seem like good business. Only 25% of the tim it dips below 69 in December. It would be good to what the temperature statistics for January look like.
+With temperatures greater than 74 degrees 75% of the time in December and 50% of the time greater than 71 degrees starting a ice cream and surf shop would seem like good business. Only 25% of the time it dips below 69 in December. It would be good to see what the temperature statistics for January look like.
 
 ### Two Additional Queries That You Would Perform to Gather More Weather Data for June and December
 
-* Temperature is only one key factor when looking at weather for analysis of the viability of a surf and shake shop. Temperature may have a correlation to how much ice cream may be bought, but there are other factors that should be looked at,  especially for surfing. It would be good to look at sunny days vs cloudy in those months. Wind speed would be good to look at particularily offshore wind speed. Wave heights, and precipitation would also be good to analyaze. 
+* Temperature is only one key factor when looking at weather for analysis of the viability of a surf and shake shop. Temperature may have a correlation to how much ice cream may be bought, but there are other factors that should be looked at, especially bringing out the surfers. It would be good to look at sunny days vs cloudy in those months. Wind speed would be good to look at, particularily offshore wind speed. Wave heights, and precipitation would also be good to analyaze. 
 
 * It would be good to go beyond June and December for the analysis. As I mentioned above it would be intersting to see temperature stats for January and then compar then to December.
 
