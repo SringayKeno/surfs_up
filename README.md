@@ -16,7 +16,7 @@ A summary of statistics for those months are below. June on the left and decembe
 
 <img width="162" alt="june_stats" src="https://user-images.githubusercontent.com/102890151/171055643-b92034c8-5bb9-46a0-8503-e1c21b5c5124.png"> <img width="160" alt="dec_stats" src="https://user-images.githubusercontent.com/102890151/171055652-78c74b8e-f900-47c3-9685-cc8aff243e00.png">
 
-### Three Major Points from the Two Analysis Deliverables
+### Four Major Points from the Two Analysis Deliverables
 
 * It should be noted that the number of datapoints in December (1517) is less than that of June (1700)
 * There is a 4 temperature difference for both months in their 25th percentile and 50th percentiles. For the 25th percentile June was 73 and December was 69. For the 50th percentile, June was 75 and the month of December was 71
