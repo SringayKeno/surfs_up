@@ -32,10 +32,20 @@ With temperatures greater than 74 degrees 75% of the time in December and 50% of
 
 * Temperature is only one key factor when looking at weather for analysis of the viability of a surf and shake shop. Temperature may have a correlation to how much ice cream may be bought, but there are other factors that should be looked at,  especially for surfing. It would be good to look at sunny days vs cloudy in those months. Wind speed would be good to look at particularily offshore wind speed. Wave heights, and precipitation would also be good to analyaze. 
 
-* It would be good to go beyond June and December for the analysis. As I mentioned above it wold be intersting to see temperature stats for January  and then compar then to December.
+* It would be good to go beyond June and December for the analysis. As I mentioned above it would be intersting to see temperature stats for January and then compar then to December.
 
 January stats with query (below)
 
 <img width="525" alt="jan_stats" src="https://user-images.githubusercontent.com/102890151/171063531-fdc31f27-ab64-4198-bd15-cdbe8238fd97.png">
 
-<img width="590" alt="june_rain" src="https://user-images.githubusercontent.com/102890151/171068109-281f9f6d-41da-4c77-8a62-db8e3d4bac39.png">
+* Another additional query would be to look at precipitation for the same two months as the analysis was done on (June/December). 
+
+Code and query results for stats (June Rain)
+
+<img width="400" alt="june_rain" src="https://user-images.githubusercontent.com/102890151/171068837-d4d512a5-f60f-4a79-9be1-a529a0f0c1b1.png">
+
+Code and query results for stats (Dec Rain)
+
+<img width="400" alt="dec_rain" src="https://user-images.githubusercontent.com/102890151/171068839-2622bd92-0b32-48fc-bcb8-136063c177ac.png">
+
+
