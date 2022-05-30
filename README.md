@@ -24,6 +24,17 @@ A summary of statistics for those months are below. June on the left and decembe
 * The maximum temperature for both month was only a 2 degree difference (85 for June and 83 for December)
 
 ## Summary: 
+### Ice Cream in December?
 
+With temperatures greater than 74 degrees 75% of the time in December and 50% of the time greater than 71 starting a ice cream and surf shop would seem like good business. Only 25% of the tim it dips below 69 in December. It would be good to what the temperature statistics for January look like.
 
 ### Two Additional Queries That You Would Perform to Gather More Weather Data for June and December
+
+* Temperature is only one key factor when looking at weather for analysis of the viability of a surf and shake shop. Temperature may have a correlation to how much ice cream may be bought, but there are other factors that should be looked at,  especially for surfing. It would be good to look at sunny days vs cloudy in those months. Wind speed would be good to look at particularily offshore wind speed. Wave heights, and precipitation would also be good to analyaze. 
+
+* It would be good to go beyond June and December for the analysis. As I mentioned above it wold be intersting to see temperature stats for January  and then compar then to December.
+
+January stats with query (below)
+
+<img width="500" alt="jan_stats" src="https://user-images.githubusercontent.com/102890151/171060221-6477aa0b-7691-4fcf-96ae-463c81428c33.png">
+
