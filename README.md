@@ -38,3 +38,4 @@ January stats with query (below)
 
 <img width="525" alt="jan_stats" src="https://user-images.githubusercontent.com/102890151/171063531-fdc31f27-ab64-4198-bd15-cdbe8238fd97.png">
 
+<img width="590" alt="june_rain" src="https://user-images.githubusercontent.com/102890151/171068109-281f9f6d-41da-4c77-8a62-db8e3d4bac39.png">
